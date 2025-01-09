@@ -1,0 +1,14 @@
+# Ignorer les fichiers sensibles
+config.php
+
+# Ignorer les fichiers de cache et temporaires
+/cache/
+*.log
+
+# Ignorer les outils de gestion de dépendances (si utilisés)
+/vendor/
+composer.lock
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db

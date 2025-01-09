@@ -1,0 +1,123 @@
+button{
+    border-bottom: 3px;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-weight: 500;
+   font-size: 15px;
+    letter-spacing: 1px;
+    display: inline-block;
+    /*padding: 10px 30px;*/
+    border-radius: 4px;
+    transition: 0.5s;
+    margin-top: 30px;
+   /* color: #fff;
+    background: dodgerblue;
+    border: 2px solid dodgerblue;*/
+}
+#btn{
+border: 3px; 
+display: inline-block; 
+padding: 5px 10px;
+border-radius: 4px;
+color:white;
+background-color: green;
+text-align: justify;
+
+}
+.bg1{
+border: 3px; 
+display: inline-block; 
+padding: 5px 10px;
+border-radius: 4px;
+color:white;
+background-color: royalblue;
+}
+.bg2{
+    border: 3px; 
+    display: inline-block; 
+    padding: 5px 10px;
+    border-radius: 4px;
+    color:white;
+   /* background-color:red;*/
+  background-color: crimson;
+}
+.ajout{
+    align-content: center;
+}  
+
+td{
+    mask-border: none;
+}
+
+/*form{
+    margin: 10px;
+    padding: 10px;*/
+
+.error{
+    text-align: center;
+    color: crimson;
+}
+
+
+/**{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}*/
+.bg{
+    background: url('img/bg-mountain-clouds.jpg') 20% 40%;
+}
+
+
+/* navbar1    */
+header{
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 1000;    
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    padding: 1.5rem 8%;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,0.1);
+}
+
+
+#tete{
+   background-color: #f0f0f0;
+   margin: 10px;
+   padding:10px;
+   text-align: center;
+   height: 200px;
+   
+}
+
+
+
+th{
+    background-color: #c0c0c0;
+}
+table,th,td{
+   /* border: 1px solid #c0c0c0;*/
+    text-align: center;
+}
+table{
+    border-collapse: none;
+    width: 50%;
+    height: 10%;
+
+
+}
+th,td{
+    padding: 15px;
+}
+
+.table{
+    align-content: center;
+    contain: none;
+   
+    
+}
+
+
